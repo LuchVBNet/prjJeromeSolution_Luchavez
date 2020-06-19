@@ -1,0 +1,14 @@
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\bin\Debug\prjJeromeProject_Luchavez.exe.config
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\bin\Debug\prjJeromeProject_Luchavez.exe
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\bin\Debug\prjJeromeProject_Luchavez.pdb
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\bin\Debug\prjJeromeProject_Luchavez.xml
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\bin\Debug\MaterialSkin.dll
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\obj\Debug\prjJeromeProject_Luchavez.vbprojAssemblyReference.cache
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\obj\Debug\prjJeromeProject_Luchavez.frmMain.resources
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\obj\Debug\prjJeromeProject_Luchavez.Resources.resources
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\obj\Debug\prjJeromeProject_Luchavez.vbproj.GenerateResource.cache
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\obj\Debug\prjJeromeProject_Luchavez.vbproj.CoreCompileInputs.cache
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\obj\Debug\prjJeromeProject_Luchavez.vbproj.CopyComplete
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\obj\Debug\prjJeromeProject_Luchavez.exe
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\obj\Debug\prjJeromeProject_Luchavez.xml
+C:\Users\Luchavez Internet\source\repos\prjJeromeSolution_Luchavez\prjJeromeProject_Luchavez\obj\Debug\prjJeromeProject_Luchavez.pdb
