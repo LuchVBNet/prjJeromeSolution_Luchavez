@@ -67,6 +67,10 @@ Public Class frmMain
         Me.Close()
     End Sub
 
+    Private Sub reject_Keypress(sender As Object, e As KeyPressEventArgs) Handles txtTotal.KeyPress, txtTax.KeyPress, txtSubtotal.KeyPress, txtShipping.KeyPress
+        e.Handled = True
+    End Sub
+
     Private Sub GetInputs()
         decItem = ProcessInput(txtItem.Text)
     End Sub
